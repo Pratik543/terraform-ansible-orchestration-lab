@@ -1,0 +1,6 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "guptapratik304@gmail.com"
+email_pass: "eiay gexg pegb fpyf"
+alert_recipient: "guptapratik304@gmail.com"
+

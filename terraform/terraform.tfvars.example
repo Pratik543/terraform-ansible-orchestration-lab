@@ -1,0 +1,7 @@
+ubuntu_ansible_master_ami_id        = "ami-01a00762f46d584a1"
+ubuntu_ansible_worker_ami_id        = "ami-01a00762f46d584a1"
+ansible_worker_count                = 3
+key_name                            = "admin"
+ubuntu_ansible_master_instance_type = "t3.small" # 't3.micro'=1GB Mem 't3.small'=2GB Mem 'c7i-flex.large'=4GB Mem 'm7i-flex.large'=8GB Mem
+ubuntu_ansible_worker_instance_type = "t3.small"
+name_prefix                          = "ansible-lab"
